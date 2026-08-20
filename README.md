@@ -19,7 +19,7 @@ I'm a backend engineer and Tech Lead with **9 years of experience** building and
 - **Backend architecture** — Node.js, TypeScript, NestJS, Express, microservices, event-driven systems
 - **Cloud & serverless** — AWS Lambda, DynamoDB, API Gateway, S3, EC2
 - **Data** — MongoDB & DynamoDB schema design, query optimization, zero-downtime migrations
-- **Reliability & scale** — Redis, Bull queues, caching, background job processing
+- **Reliability & scale** — Redis, Bull queues, caching, background job processing, Apache Kafka
 - **AI in production** — LLM API integration, prompt engineering, AI-powered product features
 - **Leadership** — Tech Lead for 12-engineer teams, Scrum Lead, cross-team technical spokesperson
 
